@@ -1,0 +1,15 @@
+.banner {
+  margin: 0px auto;
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  color: goldenrod;
+  font-family:'Times New Roman', Times, serif
+}
+.banner h1 {
+  font-size: 50px;
+  font-weight: 100;
+  margin-top: 0px;
+  padding-top: 20px;
+}

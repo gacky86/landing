@@ -1,0 +1,37 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* banner */
+@import url('components/banner.css');
+
+/* button */
+@import url('components/button.css');
+
+/* container */
+@import url('components/container.css');
+
+/* cards */
+@import url('components/cards.css');
+
+/* footer */
+@import url('components/footer.css');
+
+
+/* Utilities */
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+/* Custom design below! */

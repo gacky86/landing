@@ -1,0 +1,16 @@
+.btn-medium {
+  padding: 10px 20px;
+  border: 2px solid goldenrod;
+  color: goldenrod;
+  text-decoration: none;
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 200;
+}
+.btn-medium:hover {
+  color: white;
+  background-color: goldenrod;
+}
+.btn {
+  margin-top: 20px;
+}
